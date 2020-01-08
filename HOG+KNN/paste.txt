@@ -1,0 +1,1 @@
+python recognize_car_logos.py --training car_logos --test test_images
